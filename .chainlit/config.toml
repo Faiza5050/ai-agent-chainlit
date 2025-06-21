@@ -118,3 +118,8 @@ cot = "full"
 
 [meta]
 generated_by = "2.5.5"
+
+[deployment]
+entrypoint = "main.py"
+python_version = "3.12"
+github = "https://github.com/your-username/ai-agent-chainlit"
