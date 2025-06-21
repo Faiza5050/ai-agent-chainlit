@@ -5,4 +5,4 @@ dist/
 wheel/
 *.egg-info
 
-.venv
+.venv/
